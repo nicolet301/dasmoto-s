@@ -11,10 +11,13 @@ body {
 
 header {
   background-image: url('./resources/images/dasmoto\ pattern.jpeg');
+  height: 75px;
+  width: 100%;
+}
+
+header h1 {
   font-size: 100px;
   font-weight: bold;
   color: khaki;
   text-align: center;
-  height: auto;
-  width: 100%;
 }
