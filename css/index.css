@@ -11,10 +11,8 @@ body {
 
 header {
   background-image: url('./resources/images/dasmoto\ pattern.jpeg');
-  width: 100%;
-  height: auto;
-  position: fixed;
-  top: 0;
+  background-position: center;
+  background-size: cover;
 }
 
 h1 {
