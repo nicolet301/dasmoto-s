@@ -5,5 +5,10 @@ body {
   font-family: Helvetica;
 }
 
-heading {
+header {
+  background-image: url('./resources/images/dasmoto\ pattern.jpeg');
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
 }
