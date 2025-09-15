@@ -13,6 +13,7 @@ header {
   background-image: url('./resources/images/dasmoto\ pattern.jpeg');
   background-position: center;
   background-size: cover;
+  margin-top: 0;
 }
 
 h1 {
