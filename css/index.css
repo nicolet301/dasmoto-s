@@ -53,9 +53,13 @@ span {
   background-color: skyblue;
 }
 
+/* Footer */
+
 footer {
   background-color: lightgray;
-  padding: 10px;
+  padding: 8px;
   text-align: center;
   font-size: 14px;
+  color: khaki;
+  font-weight: bold;
 }
