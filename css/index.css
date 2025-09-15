@@ -1,4 +1,10 @@
+/* Universal Styling */
+
 body {
   box-sizing: border-box;
   font-family: Helvetica;
+}
+
+heading {
+  background-image: url('./resources/images/dasmoto\ pattern\ -\ 1.jpeg');
 }
