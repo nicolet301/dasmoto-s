@@ -7,14 +7,17 @@ body {
   padding: 0;
 }
 
+/* Content */
+
 /* Header Styling */
 
 header {
   background-image: url('./resources/images/dasmoto\ pattern.jpeg');
   background-position: center;
   background-size: cover;
-  margin-top: 0;
 }
+
+/* Content Styling */
 
 h1 {
   font-size: 100px;
@@ -32,4 +35,16 @@ h2 {
 span {
   font-weight: bold;
   color: blue;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
 }
