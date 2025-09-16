@@ -9,7 +9,7 @@ body {
 
 /* Universal Content Styling */
 
-section {
+.product {
   margin-left: 3px;
 }
 
@@ -30,13 +30,13 @@ h1 {
 
 /* Content Body */
 
-h2 {
+.product h2 {
   font-size: 32px;
   font-weight: bold;
   color: white;
 }
 
-span {
+.price {
   font-weight: bold;
   color: blue;
 }
